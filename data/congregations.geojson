@@ -1,0 +1,420 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Eighth Street Mennonite",
+        "City": "Goshen",
+        "ex": ", ",
+        "State_Province": "IN",
+        "Location": "Goshen, IN",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Julia Gingrich (pastor)",
+        "Contact2": "Eileen Saner",
+        "Contact3": "Don Paetkaur ",
+        "Contact4": "Barry Johnson",
+        "Contact5": "Janeen Bertsche Johnson",
+        "Contact6": "Ron Byler",
+        "IndigenousLandsRecognized": "Potawatomi People: Citizen Potawatomi Nation ",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.836423,
+          41.589086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Peace Mennonite",
+        "City": "Lawrence",
+        "ex": ", ",
+        "State_Province": "KS",
+        "Location": "Lawrence, KS",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Joni Fornelli",
+        "Contact2": "",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Kanza",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.266212,
+          38.958184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "First Mennonite Church",
+        "City": "Champaign Urbana",
+        "ex": ", ",
+        "State_Province": "IL",
+        "Location": "Champaign Urbana, IL",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Michael Crosby (pastor)",
+        "Contact2": "Marcia Nelson (board chair) ",
+        "Contact3": "Sharon Monday",
+        "Contact4": "Carrie Nelson",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Kickapoo",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.195524,
+          40.099844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Shalom Mennonite Fellowship",
+        "City": "Tucson",
+        "ex": ", ",
+        "State_Province": "AZ",
+        "Location": "Tucson, AZ",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Carol Rose (pastor)",
+        "Contact2": "Carrie Nelson",
+        "Contact3": "Ken Schildt",
+        "Contact4": "Ellie Schertz",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Tohono O'odham",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.828987,
+          32.19709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Mennonite Church of the Servant",
+        "City": "Wichita",
+        "ex": ", ",
+        "State_Province": "KS",
+        "Location": "Wichita, KS",
+        "CommitmentStatus": "Joined",
+        "Contact1": "John Stoesz",
+        "Contact2": "",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Wichita",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.339044,
+          37.687692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Seattle Mennonite Church",
+        "City": "Seattle",
+        "ex": ", ",
+        "State_Province": "WA",
+        "Location": "Seattle, WA",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Sabrina Porter Lindquist",
+        "Contact2": "Megan Ramer (pastor)",
+        "Contact3": "John Braun",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "The Duwamish Tribe",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331537,
+          47.673455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Pasadena Mennonite Church",
+        "City": "Pasadena",
+        "ex": ", ",
+        "State_Province": "CA",
+        "Location": "Pasadena, CA",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Tim Reardon (pastor)",
+        "Contact2": "Mariann Reardon (pastor)",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Unceded land of the Hahamogna tribe of the Tongva people",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.148936,
+          34.153289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Eliza B. Conley House of Resilience: A Mennonite Catholic Worker in Wyandotte County",
+        "City": "Kansas City",
+        "ex": ", ",
+        "State_Province": "KS",
+        "Location": "Kansas City, KS",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Kimberly Lynette",
+        "Contact2": "",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Kanza",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.731462,
+          39.106542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Camp Friedenswald",
+        "City": "Cassopolis",
+        "ex": ", ",
+        "State_Province": "MI",
+        "Location": "Cassopolis, MI",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Amy Huser",
+        "Contact2": "Jenna Liechty Martin",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Potawatomi People",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.009905,
+          41.911597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Germantown Mennonite Church",
+        "City": "Philadelphia",
+        "ex": ", ",
+        "State_Province": "PA",
+        "Location": "Philadelphia, PA",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Ruth Sutter",
+        "Contact2": "Jay Bergen (pastor)",
+        "Contact3": "Susan Bartholomew",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Lenapehoking - Lenape Nation",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.168428,
+          39.990821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Faith Mennonite",
+        "City": "Minneapolis",
+        "ex": ", ",
+        "State_Province": "MN",
+        "Location": "Minneapolis, MN",
+        "CommitmentStatus": "Joined",
+        "Contact1": "Kristi Zabriskie",
+        "Contact2": "",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Dakota Peoples",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.266563,
+          44.96313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "First Mennonite Church",
+        "City": " San Francisco",
+        "ex": ", ",
+        "State_Province": "CA",
+        "Location": " San Francisco, CA",
+        "CommitmentStatus": "In process",
+        "Contact1": "Sheri Hostetler (pastor)",
+        "Contact2": "Michael Bauman",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Ohlone Peoples of the Bay Area: Ramaytush",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431272,
+          37.778008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Albuquerque Mennonite Church",
+        "City": "Albuquerque",
+        "ex": ", ",
+        "State_Province": "NM",
+        "Location": "Albuquerque, NM",
+        "CommitmentStatus": "In process",
+        "Contact1": "Ken Gingerich",
+        "Contact2": "Dan Goering",
+        "Contact3": "Jeannie Elmhorst",
+        "Contact4": "Donna Detweiler",
+        "Contact5": "Craig Landes",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.579128,
+          35.128683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Portland Mennonite",
+        "City": "Portland",
+        "ex": ", ",
+        "State_Province": "OR",
+        "Location": "Portland, OR",
+        "CommitmentStatus": "In process",
+        "Contact1": "Kris Voss-Rothmeier",
+        "Contact2": "Sylvia Shirk",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Multnomah",
+        "": "Molalla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.650095,
+          45.533467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Waterford Mennonite",
+        "City": "Goshen",
+        "ex": ", ",
+        "State_Province": "IN",
+        "Location": "Goshen, IN",
+        "CommitmentStatus": "In process",
+        "Contact1": "Luke Gascho",
+        "Contact2": "Jane Ross Richer",
+        "Contact3": "Jerrell Ross Richer",
+        "Contact4": "Linda Hollinger-Janzen",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": "Potawatomi People (Bodewadmik)",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.836423,
+          41.589086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community": "Mountain Lake Repair Community",
+        "City": "Mountain Lake",
+        "ex": ", ",
+        "State_Province": "MN",
+        "Location": "Mountain Lake, MN",
+        "CommitmentStatus": "In process",
+        "Contact1": "Wes Kroeker",
+        "Contact2": "John Stoesz",
+        "Contact3": "",
+        "Contact4": "",
+        "Contact5": "",
+        "Contact6": "",
+        "IndigenousLandsRecognized": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.927176,
+          43.940758
+        ]
+      }
+    }
+  ]
+}
